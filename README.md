@@ -2,6 +2,8 @@
 
 Ini adalah submission tugas dari mata kuliah **Web Programming** yang saya ikuti di Universitas Bina Nusantara.
 
+[Video Preview](./preview.webm)
+
 ## Deskripsi
 Proyek ini merupakan implementasi sederhana dari halaman profil yang mencakup:
 - Informasi dasar pribadi.
